@@ -20,9 +20,6 @@ Cloudflare Workers 集成，提供无服务器架构
 快速开始
 （待补充：安装和部署指南）
 
-克隆仓库：git clone https://github.com/your-username/PasswordVault.git
-配置 Cloudflare Workers 环境
-运行项目
 
 详细部署步骤将在项目开发完善后更新。
 贡献

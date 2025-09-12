@@ -1,0 +1,8 @@
+name = "cloud-secret"
+main = "src/index.js"
+compatibility_date = "2023-10-02"
+
+[[d1_databases]]
+name = "DB"
+database_name = "cloud-secret-db"
+database_id = "YOUR_DATABASE_ID" # 替换为您的数据库ID
